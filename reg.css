@@ -1,0 +1,26 @@
+body{
+    background-color:black;
+}
+.btn{
+    background-color:aquamarine;
+ }
+ 
+ .heading{
+ 
+     text-shadow: 1ch;
+     font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ h1{
+     color:gold;
+ }
+ .formtext{
+     color: aliceblue;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ a{
+     color:cyan;
+ }
+ label{
+     margin-bottom: 2em;
+ }
